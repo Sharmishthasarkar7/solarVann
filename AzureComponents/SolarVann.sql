@@ -1,3 +1,4 @@
+--Create Table script
 CREATE TABLE dbo.solardetails (
     Id int IDENTITY(1,1) PRIMARY KEY,
     ProviderName varchar(255),
