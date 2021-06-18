@@ -31,8 +31,9 @@ Here is a demo of the Mobile-Van use case offering from Solar-vann
 ![Solar-Vann Architecture](./architecture.gif)
 
 # Components Used
-- IBM Cloud IOT Platform
-- IBM ???
+- IBM Internet of Things Platform
+- IBM Event Streams message bus  
+- IBM App Connect  
 - Logic App on Azure
 - SQL Database on Azure
 - Automation Runbook on Azure
